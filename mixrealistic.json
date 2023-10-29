@@ -7,8 +7,8 @@
   "default_sampler": "dpmpp_2m_sde_gpu",
   "default_scheduler": "karras",
   "default_styles": ["Default (Slightly Cinematic)"],
-  "default_negative_prompt": "(worst quality, low quality, illustration, 3d, 2d, painting, cartoons, sketch), tooth, open mouth, bad hand, bad fingers, bad eyes, cropped, missing fingers, extra digit, extra fingers, mutated fingers",
-  "default_positive_prompt": "xxmixgirl, OHWX WOMAN, ",
+  "default_prompt_negative": "(worst quality, low quality, illustration, 3d, 2d, painting, cartoons, sketch), tooth, open mouth, bad hand, bad fingers, bad eyes, cropped, missing fingers, extra digit, extra fingers, mutated fingers",
+  "default_prompt": "xxmixgirl, OHWX WOMAN, ",
   "checkpoint_downloads": {
     "XXMix_9realisticSDXL.safetensors": "https://civitai.com/api/download/models/163192"
   },

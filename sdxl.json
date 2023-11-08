@@ -15,7 +15,7 @@
   "embeddings_downloads": {},
   "default_aspect_ratio": "768*1344",
   "lora_downloads": {
-    "MackenzieFoy":"https://civitai.com/api/download/models/181939",
+    "MackenzieFoy.safetensors":"https://civitai.com/api/download/models/181939",
     "DetailTweaker.safetensors": "https://civitai.com/api/download/models/135867",
     "XL_More_Art.safetensors": "https://civitai.com/api/download/models/152309",
     "SFW.safetensors": "https://civitai.com/api/download/models/127928"

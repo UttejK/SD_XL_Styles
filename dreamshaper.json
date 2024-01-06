@@ -10,7 +10,7 @@
   "default_prompt_negative": "low quality, bad hands, bad eyes, cropped, missing fingers, extra digit, extra fingers, mutated fingers",
   "default_prompt": "OHWX WOMAN, wlop, ",
   "checkpoint_downloads": {
-    "DreamShaperXL.safetensors": "https://civitai.com/api/download/models/126688"
+    "DreamShaperXL.safetensors": "https://civitai.com/api/download/models/251662"
   },
   "embeddings_downloads": {},
   "default_aspect_ratio": "768*1344",
